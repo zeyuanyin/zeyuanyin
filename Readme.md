@@ -1,6 +1,6 @@
 ### Hi there, I am Zeyuan Yin (尹泽源 in Chinese)👋
 
-- 🌳 I’m currently working at [No.1037 Forest](https://www.hust.edu.cn/).
+- 🌳 I’m currently studying at [No.1037 Forest](https://www.hust.edu.cn/).
 - 🎓 I'm going to [MBZUAI](https://mbzuai.ac.ae/) for MSc in Machine Learning, an amazing AI-research journey.
 - 💻 My recent research is about Machine Learning Security, especially backdoor attack and defense.
 - 🔭 I'm looking for which aspect of AI I will devote myself to in the next decade.
