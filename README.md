@@ -2,8 +2,7 @@
 
 - 🎓 I'm at [MBZUAI](https://mbzuai.ac.ae/) for MSc in Machine Learning, an amazing AI-research journey.
 - 🌳 I graduated from CS in [HUST, No.1037 Forest](http://english.hust.edu.cn/).
-- 🔭 I'm looking for which aspect of AI I will devote myself to in the next decade.
-  - My recent research is about efficient deep learning algorithms and systems.
+- 🔭 My recent research is about deep learning and computer vision.
 
 
 <details>
