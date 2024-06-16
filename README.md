@@ -1,9 +1,12 @@
-### Hi there, I am Zeyuan Yin (尹泽源 in Chinese)👋
+### Hi there, I am Zeyuan Yin (尹泽源 in Chinese) 👋
 
-- 🎓 I'm at [MBZUAI](https://mbzuai.ac.ae/) for MSc in Machine Learning, an amazing AI-research journey.
-- 🌳 I graduated from CS in [HUST, No.1037 Forest](http://english.hust.edu.cn/).
-- 🔭 My recent research is about deep learning and computer vision.
+- 🔭 My research is about deep learning and computer vision. [[Semantic Scholar]](https://www.semanticscholar.org/author/Zeyuan-Yin/2105848012)
 
+### Career 🎓
+
+- [2018 - 2022] B.Eng. in Computer Science [@HUST, No.1037 Forest](http://english.hust.edu.cn/)
+- [2022 - 2024] M.Sc. in Machine Learning [@MBZUAI](https://mbzuai.ac.ae/)
+- [2024] Intern in Multimodal [@Alibaba DAMO Academy](https://damo.alibaba.com/)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
