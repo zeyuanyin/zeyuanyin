@@ -14,8 +14,8 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
   <div align="left">
-    <img width="45%" src="https://github-readme-stats-timo.vercel.app/api?username=zeyuanyin&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
-    <img width="30%" src="https://github-readme-stats-timo.vercel.app/api/top-langs/?username=zeyuanyin&langs_count=8&hide_border=true&layout=compact&hide=jupyter%20notebook" />
+    <img width="45%" src="https://github-stats-extended.vercel.app/api?username=zeyuanyin&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
+    <img width="30%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeyuanyin&langs_count=8&hide_border=true&layout=compact&hide=jupyter%20notebook" />
   </div>
 
   <img width="30%" src="https://skillicons.dev/icons?i=py,pytorch,vscode,vim,bash&theme=light" />
