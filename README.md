@@ -1,6 +1,6 @@
 ### Hi there, I am Zeyuan Yin (尹泽源 in Chinese) 👋
 
-- 🎓 I am a CS Ph.D. student at [Michigan State University](https://www.msu.edu), advised by [Prof. Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html).
+- 🎓 I am a CS Ph.D. student at [Michigan State University](https://www.msu.edu), advised by [Prof. Xiaoming Liu](https://www.cs.unc.edu/~liuxm/).
 - 🔭 My research interests lie in computer vision and deep learning, currently focusing on **video generation** and **deepfake detection**.
 - 🌐 Academic Homepage: [https://zeyuanyin.github.io/](https://zeyuanyin.github.io/)
 
